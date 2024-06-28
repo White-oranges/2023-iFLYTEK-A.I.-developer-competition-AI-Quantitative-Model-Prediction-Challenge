@@ -1,0 +1,3 @@
+{"data":"t5", "feature":["date", "date_time", "sym", "close", "amount_delta", "mid_price","bid1", "bsize1", "bid2", "bsize2", "bid3",
+"bsize3", "bid4", "bsize4","bid5", "bsize5", "ask1", "asize1", "ask2", "asize2", "ask3", "asize3","ask4", "asize4",
+"ask5", "asize5"], "label":"label_5"}
