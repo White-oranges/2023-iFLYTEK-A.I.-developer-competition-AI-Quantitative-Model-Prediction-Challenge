@@ -1,6 +1,6 @@
 **Our algorithm achieves Top3**
 
-The prediction was made using the LightGBM model.
+The prediction is made using the LightGBM model.
 
 Due to some original features being harmful to prediction, such as buy-four price, buy-five price, sell-four price, sell-five price, etc., they have been removed from the features.
 
